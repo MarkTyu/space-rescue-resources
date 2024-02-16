@@ -43,4 +43,4 @@ while Globals.running:
 
     if Globals.exiting:
         break
-sys.exit()                                                        
+sys.exit()                                                         
